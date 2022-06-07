@@ -1,0 +1,13 @@
+Main
+1	Attack
+2	Generation
+3	Jump
+4	Run
+
+Generater
+1	Stop
+2	Move
+
+Gear
+1	Stop
+2	Move
